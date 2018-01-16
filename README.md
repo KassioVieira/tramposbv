@@ -1,2 +1,2 @@
 # tramposbv
-#Sistema em Laravel para buscar de empregoa
+Sistema em Laravel para buscar de empregos
